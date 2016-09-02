@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Series>
+    <MinifigureSeries>
+      <SetNumber>71013</SetNumber>
+      <Name>Series 16</Name>
+      <ReleaseDate>2016-09-01T00:00:00</ReleaseDate>
+      <Minifigures />
+    </MinifigureSeries>
+    <MinifigureSeries>
+      <SetNumber>71012</SetNumber>
+      <Name>Disney CMF Series 1</Name>
+      <ReleaseDate>2016-07-01T00:00:00</ReleaseDate>
+      <Minifigures>
+        <Minifigure>
+          <SetNumber>71012-1</SetNumber>
+          <Name>Stitch</Name>
+          <IdentificationText>Big ears, short legs</IdentificationText>
+        </Minifigure>
+        <Minifigure>
+          <SetNumber>71012-6</SetNumber>
+          <Name>Maleficent</Name>
+          <IdentificationText>Slope brick instead of legs</IdentificationText>
+        </Minifigure>
+        <Minifigure>
+          <SetNumber>71012-5</SetNumber>
+          <Name>Genie</Name>
+          <IdentificationText>Swirl instead of legs</IdentificationText>
+        </Minifigure>
+      </Minifigures>
+    </MinifigureSeries>
+  </Series>
+  <Photos>
+	<string>71012-1.jpg</string>
+  </Photos>
+</Manifest>
